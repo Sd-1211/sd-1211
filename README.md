@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Machine Learining and LLMs**
 
-- 🌱 I’m currently learning **Full-Stack Dev | 🤖 ML | 💻 JavaScript**
+- 🌱 I’m currently learning **Full-Stack Dev | 🤖 ML | 💻 JavaScript| ⚛️ React.js**
 
 - 🌸 **“Turning lines of code into blooming gardens of insight.”**
 
